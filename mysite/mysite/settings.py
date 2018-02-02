@@ -25,7 +25,9 @@ SECRET_KEY = '#gyd#bo_s=c^k=+!aolq9j6w8&dp-5n&0^swy-#m02*)9w5%uv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'imdengshuang.top'
+]
 
 
 # Application definition
